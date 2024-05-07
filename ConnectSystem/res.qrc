@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>eyesclose.png</file>
+        <file>eyesopen.png</file>
+        <file>Loginbackground.png</file>
+        <file>frame.png</file>
+        <file>white.png</file>
+        <file>3.png</file>
+        <file>123.png</file>
+        <file>cnl.txt</file>
+        <file>bg2.png</file>
+        <file>bg4.png</file>
+        <file>bg5.png</file>
+        <file>picture9.png</file>
+        <file>picture4.png</file>
+        <file>picture11.png</file>
+    </qresource>
+</RCC>
